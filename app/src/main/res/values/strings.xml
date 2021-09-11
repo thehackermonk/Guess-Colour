@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess Color</string>
+    <string name="refresh">Refresh</string>
+    <string name="guess">Guess</string>
+    <string name="shape_description">Coloured Shapes</string>
+    <string name="colour">Colour</string>
+    <string name="replay">Replay</string>
+    <string name="developedBy">Developer By</string>
+    <string name="hacker">TheHackerMonk</string>
+</resources>
